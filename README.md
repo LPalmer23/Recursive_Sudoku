@@ -7,4 +7,4 @@ Key Features:
 * Modular helper methods for placing, removing, and validating values
 * Reads puzzles from a .txt file and prints both the initial and solved board
 
-
+Developed as part of a Boston University CS assignment in Fall 2024.
